@@ -1,0 +1,11 @@
+<?php
+$MESS["CLICKON_DETECTLEFTUSER_SETTINGS"] = "Settings";
+$MESS["CLICKON_DETECTLEFTUSER_SETTING_MODULE_PARAMETERS"] = "Setting module parameters";
+$MESS["CLICKON_DETECTLEFTUSER_TIME_ON_SITE"] = "Time spent on site";
+$MESS["CLICKON_DETECTLEFTUSER_TIME"] = "Time (minutes)";
+
+?>
+
+
+
+
